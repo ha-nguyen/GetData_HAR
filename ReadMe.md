@@ -2,7 +2,6 @@
 title: "ReadMe"
 author: "Ha Nguyen"
 date: "June 17, 2015"
-output: html_document
 ---
 
 The purpose of the project is collecting, and transforming dataset collected from: 
